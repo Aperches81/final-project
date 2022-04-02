@@ -1,0 +1,90 @@
+*
+{
+    margin:  0;
+    padding:  0;
+}
+body
+{
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+.contact-box
+{
+    width: 500px;
+    background-color:aliceblue;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%) ;
+    position: absolute; 
+}
+form
+{
+    margin:  35px;
+}
+.input-field
+{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field
+{
+    height: 150px;
+    padding-top: 10px;
+
+}
+.btn
+{
+    border-radius: 20px;
+    color: green;
+    margin-top: 18px;
+    padding: 10px
+    background-color: black;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+.hero
+{
+    /* Sizing */
+    width: 100vw;
+    height: 100vh;
+}
+.h1
+{
+    font-style: helena;
+    background-color: blue;
+    text-emphasis-color: red;
+}
+.Shanghai Chinese Food 
+{
+    background-color: blue;
+    text-emphasis-color: red;
+}
+.container
+{
+    width: 100vw;
+    height: 100vh;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
